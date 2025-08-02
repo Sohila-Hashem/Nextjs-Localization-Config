@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Fusion Group Global",
+    "description": "مرحباً بكم في Fusion Group Global، الشركة العالمية الرائدة في مجال التكنولوجيا والتي تقدم حلولاً مبتكرة لمساعدة الشركات على النجاح في العالم الرقمي."
+  },
+  "services": {
+    "title": "Services",
+    "description": "في Fusion Group Global، نقدم مجموعة واسعة من الخدمات لمساعدة الشركات على النجاح في العالم الرقمي."
+  },
+  "about": {
+    "title": "About",
+    "description": "تعرف على المزيد حول Fusion Group Global وخدماتنا."
+  }
+}
