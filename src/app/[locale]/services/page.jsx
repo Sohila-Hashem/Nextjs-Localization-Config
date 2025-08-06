@@ -1,9 +1,9 @@
-import servicesData from "@/public/data/services.json";
-import { useTranslations } from "next-intl";
+import servicesData from "@/data/services.json";
+import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 
-export default function Page({ params }) {
-  const t = useTranslations("Services");
+export default async function ServicesPage() {
+  const t = await getTranslations("Services");
   const services = Object.keys(servicesData);
 
   return (

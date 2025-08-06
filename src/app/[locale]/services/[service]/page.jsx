@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { useTranslations } from "next-intl";
-import servicesData from "@/public/data/services.json";
+import servicesData from "@/data/services.json";
 
 export function generateStaticParams() {
   return Object.keys(servicesData).map((service) => ({ service }));
