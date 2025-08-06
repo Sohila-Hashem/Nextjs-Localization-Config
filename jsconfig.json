@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/components/*": ["./app/[lang]/components/*"],
-      "@/*": ["./app/[lang]/*"],
-      "@/config/*": ["./config/*"]
+      "@/components/*": ["./src/app/components/*"],
+      "@/i18n/*": ["./src/app/i18n/*"],
+      "@/public/*": ["./public/*"]
     }
   }
 }

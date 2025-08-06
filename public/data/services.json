@@ -1,0 +1,1072 @@
+{
+  "software-development": {
+    "title": "SoftwareDevelopment.title",
+    "serviceCardImg": "/service-card-img/software-house-img.webp",
+    "icon": "/services/custom-software-icon.svg",
+    "name": "software-development",
+    "img": "/subservices/software-development-img.svg",
+    "broadSentence": "Transforming ideas into reality with Custom software tailored for you",
+    "broadSentence2": "Designing Digital Journeys: Websites that Captivate and Convert!",
+    "type": "withsubs",
+    "descrpTitle": "Code Your Success: Innovative Software Solutions Built to Excel!",
+    "description": "SoftwareDevelopment.description",
+    "benefits": [
+      {
+        "title": "Tailored Solutions",
+        "text": "Our software development service offers bespoke solutions to meet your unique business needs.",
+        "icon": "/benefits-icons/tailored-solution.svg"
+      },
+      {
+        "title": "Budget-Friendly Solutions",
+        "text": "Achieve your goals with our cost-effective software development services.",
+        "icon": "/benefits-icons/cost-reduction.svg"
+      },
+      {
+        "title": "Robust Security",
+        "text": "Protect your data and operations with our highly secure software solutions.",
+        "icon": "/benefits-icons/security.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/custom-software-development.svg",
+        "name": "custom-software-development",
+        "title": "Custom Software Development",
+        "href": "/services/software-development/custom-software-development",
+        "img": "/subservices/custom-software-development-img.webp",
+        "description": "Our custom software development service offers bespoke solutions tailored to your unique business needs, enhancing your operational efficiency. We collaborate closely with you to understand your specific requirements, ensuring the software we develop meets all your objectives. Our end-to-end development process covers everything from initial design to deployment, providing scalable and flexible solutions that grow with your business. By leveraging the latest technologies and best practices, we deliver high-quality, customized software that streamlines your processes and drives success.",
+        "metaDescription": "Custom Software development is a crucial part of any business. Our team of experienced developers brings extensive experience in creating high-quality custom software solutions across various industries.",
+        "broadSentence": "Tailor-made software solutions to meet your unique business challenges.",
+        "content": [
+          {
+            "type": "process",
+            "title": "Our Custom Software Development Process",
+            "items": [
+              {
+                "title": "1. Requirements Gathering",
+                "text": "Understand your business needs and objectives to define software requirements.",
+                "icon": "/subservices/requirement-analysis.svg"
+              },
+              {
+                "title": "2. Planning",
+                "text": "We outline a detailed plan, including timelines, resources, and budget.",
+                "icon": "/subservices/planning.svg"
+              },
+              {
+                "title": "3. Design",
+                "text": "We create detailed design specifications, including software architecture and user interface.",
+                "icon": "/subservices/ui-ux-icon.svg"
+              },
+              {
+                "title": "4. Development",
+                "text": "We implement the design by coding and building the software.",
+                "icon": "/subservices/development.svg"
+              },
+              {
+                "title": "5. Testing",
+                "text": "We conduct thorough testing to identify and resolve any issues.",
+                "icon": "/subservices/testing.svg"
+              },
+              {
+                "title": "6. Deployment and Maintenance",
+                "text": "We deploy the software and provide continuous support and updates.",
+                "icon": "/subservices/maintenance.svg"
+              }
+            ]
+          },
+          {
+            "type": "types",
+            "img": "/subservices/custom-software-development-types.webp",
+            "title": "Why Choose Fusion for Custom Software Development ?",
+            "items": [
+              {
+                "title": "Expertise and Experience",
+                "text": "Our team of seasoned developers and consultants brings extensive experience in creating high-quality custom software solutions across various industries."
+              },
+              {
+                "title": " Tailored Solutions",
+                "text": "We focus on understanding your specific requirements and challenges to develop software that fits seamlessly into your existing processes and addresses your unique needs."
+              },
+              {
+                "title": "Cutting-Edge Technologies",
+                "text": "We utilize the latest technologies and tools to ensure your software is modern, efficient, and scalable, providing you with a competitive edge."
+              },
+              {
+                "title": "Proven Track Record",
+                "text": "With a portfolio of successful projects and satisfied clients, we demonstrate our ability to deliver impactful solutions that drive business success."
+              },
+              {
+                "title": "Collaborative Approach",
+                "text": "We prioritize clear communication and collaboration throughout the development process, ensuring your vision is realized and your feedback is incorporated."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/mobile-app-development.svg",
+        "name": "mobile-app-development",
+        "title": "Mobile Application Development",
+        "href": "/services/software-development/mobile-app-development",
+        "img": "/subservices/mobile-app-development-img.svg",
+        "description": "We develop high-performance mobile applications for both iOS and Android platforms, focusing on user engagement and functionality. Our solutions ensure a seamless user experience and include features designed to enhance app performance and accessibility.",
+        "metaDescription": "We develop high-performance mobile applications for both iOS and Android platforms, focusing on user engagement and functionality",
+        "broadSentence": "High-performance mobile apps for IOS and Android with enhanced user engagement.",
+        "content": [
+          {
+            "type": "types",
+            "img": "/subservices/mobile-app-development-types.webp",
+            "title": "Our Mobile App Development Services",
+            "items": [
+              {
+                "title": "React Native App Development",
+                "text": "We build efficient, high-performance apps using React Native for a seamless user experience across multiple platforms."
+              },
+              {
+                "title": "Cross-Platform App Development",
+                "text": "We develop versatile apps that run smoothly on both iOS and Android, ensuring consistent performance and user experience."
+              },
+              {
+                "title": "Hybrid App Development",
+                "text": "Our hybrid app solutions blend web and native features for flexible, cost-effective applications that work across various devices."
+              },
+              {
+                "title": "Android App Development",
+                "text": "We design and develop robust Android apps tailored to your business needs, leveraging the latest technologies for optimal performance."
+              },
+              {
+                "title": "IOS App Development",
+                "text": "Our team creates elegant and intuitive IOS apps, crafted to meet the high standards of Apple’s ecosystem and deliver an exceptional user experience."
+              }
+            ]
+          },
+          {
+            "type": "process",
+            "title": "Mobile Application Development Process",
+            "items": [
+              {
+                "title": "1. Requirement Analysis",
+                "text": "Gather and analyze business needs, target audience, and functionality requirements to define the project scope.",
+                "icon": "/subservices/requirement-analysis.svg"
+              },
+              {
+                "title": "2. UI/UX Design",
+                "text": "Create wireframes, mockups, and interactive prototypes to design a user-friendly and visually appealing interface.",
+                "icon": "/subservices/ui-ux-icon.svg"
+              },
+              {
+                "title": "3. Development",
+                "text": "Write code for both front-end and back-end, integrate APIs, and build the app’s core functionalities.",
+                "icon": "/subservices/development.svg"
+              },
+              {
+                "title": "4. Testing",
+                "text": "Conduct rigorous testing, including functional, performance, and usability tests, to identify and fix bugs.",
+                "icon": "/subservices/testing.svg"
+              },
+              {
+                "title": "5. Deployment",
+                "text": "Publish the app to relevant app stores (iOS and Android), ensuring compliance with their guidelines.",
+                "icon": "/subservices/deployment.svg"
+              },
+              {
+                "title": "6. Maintenance & Updates",
+                "text": "Provide ongoing support, monitor performance, and release updates to improve features and address issues.",
+                "icon": "/subservices/maintenance.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/ui-ux.svg",
+        "name": "ui-ux-designs",
+        "actual_name": "UI/UX Designs",
+        "title": "UI/UX Designs",
+        "img": "/web-development/responsive-designs-new.svg",
+        "href": "/services/software-development/ui-ux-designs",
+        "description": "Our UI/UX service focuses on designing intuitive and engaging user interfaces to enhance usability and satisfaction. By creating user-centric designs, we ensure easy navigation and seamless interaction across various devices. We help clients achieve visually appealing and highly functional applications that align with their business goals, providing a delightful user experience that keeps users engaged.",
+        "metaDescription": "Designing intuitive, engaging user interfaces and experiences to enhance usability and satisfaction, ensuring that applications are easy to navigate and provide a delightful user experience.",
+        "broadSentence": "Creating intuitive, engaging user interfaces and experiences to enhance usability and satisfaction.",
+        "content": [
+          {
+            "type": "list",
+            "title": "How Our UI/UX Design Process Works",
+            "items": [
+              {
+                "id": "1",
+                "title": "Design Brief",
+                "text": "We start with a product scope, including user stories, UX personas, features, and stakeholder analysis, provided by you or us.",
+                "img": "/subservices/ui-design-brief.svg"
+              },
+              {
+                "id": "2",
+                "title": "Key Screens",
+                "text": "We design the most important screens first, allowing you to visualize and approve the look and feel of your product.",
+                "img": "/subservices/ui-key-screens.svg"
+              },
+              {
+                "id": "3",
+                "title": "All Screens",
+                "text": "Upon approval of the Key Screens, we extend the design to all remaining screens, delivering a complete product UX/UI design.",
+                "img": "/subservices/ui-allScreens.svg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Marketing.title",
+    "serviceCardImg": "/service-card-img/marketing-img.webp",
+    "icon": "/services/marketing-icon.svg",
+    "name": "marketing",
+    "img": "/marketing/marketing-img.svg",
+    "broadSentence": "Amplify Your Brand's Voice: Strategic Marketing That Delivers Results!",
+    "broadSentence2": "Fuel Your Growth: Marketing That Connects and Converts!",
+    "type": "withsubs",
+    "descrpTitle": "We Elevate Your Brand Through Strategic Marketing Solutions",
+    "description": "Marketing.description",
+    "benefits": [
+      {
+        "title": "Increased Brand Awareness",
+        "text": "Our marketing strategies are designed to increase your brand's visibility and recognition, ensuring that your target audience is aware of your products and services.",
+        "icon": "/benefits-icons/brand-awarness.svg"
+      },
+      {
+        "title": "Enhanced Customer Engagement",
+        "text": "We create engaging marketing campaigns that resonate with your audience, encouraging interaction and building lasting relationships with your customers.",
+        "icon": "/benefits-icons/engagement.svg"
+      },
+      {
+        "title": "Improved Lead Generation",
+        "text": "Our targeted marketing efforts are aimed at generating quality leads for your business, driving conversions and increasing revenue.",
+        "icon": "/benefits-icons/lead-generation.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/online-advertising.svg",
+        "name": "online-advertising",
+        "title": "Online Advertising",
+        "href": "/services/marketing/online-advertising",
+        "img": "/subservices/online-advertising-img.svg",
+        "description": "Online advertising is the art of strategically placing ads across various platforms to reach the right audience at the right time. With our comprehensive approach, we ensure cohesive campaign management, precise audience targeting, and optimal resource allocation, all aimed at driving measurable results and achieving your marketing objectives ",
+        "metaDescription": "Online advertising is the art of strategically placing ads across various platforms to reach the right audience at the right time.",
+        "broadSentence": "Strategically purchasing media placements to optimize your brand's visibility and ensure cost-effective ad spend.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Our Online Advertising Services",
+            "items": [
+              {
+                "id": "1",
+                "title": "Conversion Tracking",
+                "text": "Beyond simply counting conversions, our tracking system provides in-depth insights into ad performance and user behavior, enabling us to optimize campaigns and enhance user experiences.",
+                "img": "/subservices/conversion-tracking.svg"
+              },
+              {
+                "id": "2",
+                "title": "Detailed Targeting",
+                "text": "Utilizing data-driven strategies, we accurately target audiences across the right channels with the most effective messages, ensuring efficient resource allocation and higher engagement rates.",
+                "img": "/subservices/detailed-targeting.svg"
+              },
+              {
+                "id": "3",
+                "title": "Budget Optimization",
+                "text": "We meticulously allocate budgets across various channels and campaigns to maximize your ROI while minimizing overspending, ensuring every dollar is effectively utilized for the best possible results.",
+                "img": "/subservices/budget-optimization.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/branding.svg",
+        "name": "branding",
+        "title": "Branding",
+        "href": "/services/marketing/branding",
+        "img": "/subservices/branding-img.svg",
+        "description": "At Fusion, we go beyond simply choosing fonts and colors. We focus on developing comprehensive brand strategies that resonate deeply with your target audience and drive meaningful connections. Our approach combines meticulous market research, creative innovation, and strategic planning to craft a unique brand identity that stands out in a crowded marketplace. From defining your brand story to designing cohesive visual elements and implementing effective communication strategies, we ensure every aspect of your brand reflects your core values and achieves your business objectives. ",
+        "metaDescription": "Focus on developing comprehensive brand strategies that resonate deeply with your target audience and drive meaningful connections. Every aspect of your brand reflects your core values and achieves your business objectives.",
+        "broadSentence": "Crafting unique brand identities that resonate with your audience and drive meaningful connections.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Our Branding Services",
+            "items": [
+              {
+                "id": "1",
+                "title": "Logo Design",
+                "text": "Our logo design process ensures that your brand's essence is expressed memorably. We work closely with you to create a logo that appeals to your target audience and effectively communicates your brand's values.",
+                "img": "/subservices/branding-logo.webp"
+              },
+              {
+                "id": "2",
+                "title": "Brand Guidelines",
+                "text": " We create clear brand guidelines that ensure consistency across all touchpoints. By establishing guidelines for logo usage, color palettes, and typography, we enable your team to communicate your brand's message consistently and effectively.",
+                "img": "/subservices/branding-guidelines.webp"
+              },
+              {
+                "id": "3",
+                "title": "Brand Collateral Designs",
+                "text": "Our team creates visually appealing collateral that helps your brand's image. From business cards to digital assets, we create designs that are consistent with your brand's identity and objectives, leaving a lasting impression on your target audience.",
+                "img": "/subservices/branding-collateral.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/content-creation.svg",
+        "name": "content-creation",
+        "title": "Content Creation",
+        "href": "/services/marketing/content-creation",
+        "img": "/marketing/content-creation-img.svg",
+        "description": "Before people buy your products or services, they need to buy your story. Great website content sells your expertise, your credibility, your trustworthiness and your values to potential customers. At Fusion , we understand the power of storytelling. Our team of skilled writers are not only experts in creating engaging content, but also savvy digital marketers with a deep understanding of various industries. Whether it's finding your brand's unique voice or delivering authoritative content, we're here to help you connect with your audience and drive results.",
+        "metaDescription": "Before people buy your products or services, they need to buy your story. Great website content sells your expertise, your credibility, your trustworthiness and your values to potential customers. At Fusion , we understand the power of storytelling.",
+        "broadSentence": "Crafting compelling content that resonates with your audience and drives meaningful connections.",
+        "content": [
+          {
+            "type": "types",
+            "img": "/contentCreation-types.svg",
+            "title": "Types of Content",
+            "items": [
+              {
+                "title": "Social Media Posts",
+                "text": "We create engaging social media posts to encourage audience interaction and increase brand visibility, resulting in meaningful connections with your target audience."
+              },
+              {
+                "title": " Video Production",
+                "text": "We offer comprehensive video production services designed to meet your marketing, branding, and communication needs. From the initial concept to the final edited product, our team is dedicated to creating high-quality videos that capture your audience’s attention and deliver your message effectively."
+              },
+              {
+                "title": "Blog Posts",
+                "text": "We deliver informative and compelling blog posts that position your brand as an industry authority, driving organic traffic and building credibility with your audience."
+              },
+              {
+                "title": "Graphic Design",
+                "text": "Our graphic design services are dedicated to crafting visually compelling content that effectively communicates your brand’s message and engages your audience. Whether you need static designs or dynamic visual elements, our team of talented designers is here to bring your vision to life with creativity and expertise."
+              },
+              {
+                "title": "Motion Graphics",
+                "text": "We specialize in creating captivating motion graphics that enhance your message and engage your audience. Combining graphic design, animation, and sound, our motion graphics services deliver dynamic visual content for a variety of needs, from storytelling to marketing."
+              }
+            ]
+          },
+          {
+            "type": "process",
+            "title": "Content Creation Process",
+            "items": [
+              {
+                "title": "1. Define Content Objectives",
+                "text": "Set clear objectives to align your content strategy with specific business goals.",
+                "icon": "/subservices/content-objectives.svg"
+              },
+              {
+                "title": "2. Brainstorm Ideas",
+                "text": "Generate diverse ideas through mind maps, keyword research, and team collaboration for relevant topics.",
+                "icon": "/subservices/brainstorm.svg"
+              },
+              {
+                "title": "3. Research and Analysis",
+                "text": "Gather reliable information, analyze trends, and understand the audiences needs to create authoritative content.",
+                "icon": "/subservices/research-analysis.svg"
+              },
+              {
+                "title": "4. Content Creation",
+                "text": "Write engaging, SEO-optimized content with compelling headlines, relevant keywords, and high-quality visuals.",
+                "icon": "/benefits-icons/content-creation-icon.svg"
+              },
+              {
+                "title": "5. Revision and Polishing",
+                "text": "Review for clarity, accuracy, and consistency, ensuring polished, professional, and error-free content.",
+                "icon": "/subservices/polishing.svg"
+              },
+              {
+                "title": "6. Client Review and Approval",
+                "text": "Present content for client feedback, make adjustments and ensure alignment with their vision and guidelines.",
+                "icon": "/subservices/client-approval.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/seo.svg",
+        "name": "SEO",
+        "title": "SEO",
+        "img": "/subservices/seo-img.svg",
+        "href": "/services/marketing/seo",
+        "description": "Before people find your products or services, they need to find you. Effective SEO ensures your story is heard, your expertise recognized, and your values understood by potential customers. At Fusion, we harness the power of search engines to elevate your online presence. Our team of SEO specialists combines technical proficiency with a deep understanding of diverse industries. We don’t just improve rankings; we craft strategies that connect you with your audience, driving meaningful engagement and real results.",
+        "metaDescription": "Effective SEO ensures your story is heard, your expertise recognized, and your values understood by potential customers. At Fusion, we harness the power of search engines to elevate your online presence.",
+        "broadSentence": "Elevating your online presence through strategic SEO practices that drive meaningful engagement and real results.",
+        "content": [
+          {
+            "type": "list",
+            "title": "What does our SEO service include",
+            "items": [
+              {
+                "id": "1",
+                "title": "Technical SEO",
+                "text": "Addressing website speed, responsiveness, and mobile-friendliness to eliminate technical barriers that hinder SEO performance.",
+                "img": "/subservices/technical-seo.svg"
+              },
+              {
+                "id": "2",
+                "title": "On-Page SEO",
+                "text": "Creating valuable, reader-friendly content with strategic keyword integration, guided by analytics and competitive intelligence to enhance organic visibility",
+                "img": "/subservices/onPage-seo.svg"
+              },
+              {
+                "id": "3",
+                "title": "Off-Page SEO",
+                "text": "Building backlinks, encouraging social sharing, and fostering positive reviews to boost credibility, authority, and visibility in search engine rankings.",
+                "img": "/subservices/offPage-seo.webp"
+              }
+            ]
+          },
+          {
+            "type": "process",
+            "title": "Why does every business need SEO ?",
+            "items": [
+              {
+                "title": "1. Increased Visibility",
+                "text": "Improve your search engine rankings to increase visibility and attract more organic traffic to your website.",
+                "icon": "/benefits-icons/visibility.svg"
+              },
+              {
+                "title": "2. Targeted Traffic",
+                "text": "Reach your target audience with relevant keywords and content that align with their search intent.",
+                "icon": "/benefits-icons/targeted-traffic.svg"
+              },
+              {
+                "title": "3. Increase Your Search Rankings",
+                "text": "We focus on optimizing keywords to secure top search positions",
+                "icon": "/benefits-icons/search-ranking.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/social-media-mgmt.svg",
+        "name": "social-media-management",
+        "title": "Social Media Management",
+        "href": "/services/marketing/social-media-management",
+        "img": "/marketing/social-media-img.webp",
+        "description": "In today's digital world, your brand's voice needs to be heard across social media platforms to connect with your audience. At Fusion, we specialize in transforming your social media presence into a powerful tool for engagement and growth. Our team of social media experts knows how to create compelling content that resonates with your followers and builds your brand's identity. We don't just manage accounts; we craft tailored strategies that drive interaction, foster community, and deliver measurable success. Let us help you navigate the dynamic world of social media and achieve your business goals.",
+        "metaDescription": "In today's digital world, your brand's voice needs to be heard across social media platforms to connect with your audience. At Fusion, we specialize in transforming your social media presence into a powerful tool for engagement and growth.",
+        "broadSentence": "Transforming your social media presence into a powerful tool for engagement and growth.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Our Social Media Management Process",
+            "items": [
+              {
+                "id": "1",
+                "title": "Discuss your business goals",
+                "text": "We’ll learn about what you are hoping to achieve as a company — short- and long-term — to create a social media plan that works towards your goals.",
+                "img": "/subservices/social-media-goals.svg"
+              },
+              {
+                "id": "2",
+                "title": "Analyze your market",
+                "text": "We’ll do a deep dive into your competition — both as a business and within search, specifically — to determine the best action plan.",
+                "img": "/subservices/social-media-market.svg"
+              },
+              {
+                "id": "3",
+                "title": "Review your strategic objectives",
+                "text": "What key objectives are on your roadmap? Double down on content production? Launch a new product line? We’ll create a plan that aligns perfectly.",
+                "img": "/subservices/social-media-objectives.svg"
+              }
+            ]
+          },
+          {
+            "type": "process",
+            "title": "Why choose Fusion as your social media management partner?",
+            "items": [
+              {
+                "title": "Choose your involvement level",
+                "text": "Hands-off, hands-on, or something in between. The choice is yours, our experienced team can easily meet your unique needs",
+                "icon": "/benefits-icons/involvement.svg"
+              },
+              {
+                "title": "Understand your competition",
+                "text": "Get unmatched insight into the online performance of your competitors with a detailed competitor analysis.",
+                "icon": "/benefits-icons/competition.svg"
+              },
+              {
+                "title": "Power your strategy with data",
+                "text": " Receive a custom, data-driven strategy for your social media marketing campaign powered by advanced marketing technology.",
+                "icon": "/benefits-icons/strategy.svg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/influencer-marketing.svg",
+        "name": "influencer-marketing",
+        "title": "Influencer Marketing",
+        "href": "/services/marketing/influencer-marketing",
+        "img": "/subservices/influencers-marketing-img.svg",
+        "description": "In a world where authentic connections matter, influencer marketing bridges the gap between your brand and its audience. At Fusion, we harness the power of trusted voices to amplify your message. Our influencer marketing experts identify the perfect partners to share your story, ensuring it resonates with authenticity and impact. We don't just create campaigns; we build relationships that enhance your brand's credibility and reach. Let us help you leverage the influence of key voices to connect with your audience and drive meaningful engagement.",
+        "metaDescription": "In a world where authentic connections matter, influencer marketing bridges the gap between your brand and its audience. At Fusion, we harness the power of trusted voices to amplify your message.",
+        "broadSentence": "Leverage the power of trusted voices to amplify your brand message and drive meaningful connections with your audience.",
+        "content": [
+          {
+            "type": "sec-pic",
+            "img": "branding-img.svg",
+            "title": "Our Influencer Marketing Services",
+            "items": [
+              {
+                "title1": "Influencer",
+                "title2": " Identification and Outreach",
+                "img": "/subservices/influencer-identification.svg",
+                "points": [
+                  {
+                    "title": "Finding the Right Influencers: ",
+                    "text": "We identify influencers who align with your brand values, target audience, and campaign objectives to ensure authentic partnerships."
+                  },
+                  {
+                    "title": "Building Relationships: ",
+                    "text": " We reach out to influencers to establish partnerships, negotiate terms, and set collaboration goals."
+                  }
+                ]
+              },
+              {
+                "title1": "Campaign ",
+                "title2": "Strategy Development",
+                "img": "/subservices/influenecer-campaign-development.svg",
+                "points": [
+                  {
+                    "title": "Campaign Planning: ",
+                    "text": " We develop comprehensive influencer marketing strategies tailored to your objectives, whether it’s increasing brand awareness, driving sales, or launching new products."
+                  },
+                  {
+                    "title": "Content Strategy: ",
+                    "text": "We collaborate with influencers to create engaging content that resonates with their audience and drives brand awareness."
+                  }
+                ]
+              },
+              {
+                "title1": "Campaign ",
+                "title2": "Management and Reporting",
+                "img": "/subservices/influencer-campaign-mgmt.svg",
+                "points": [
+                  {
+                    "title": "Campaign Execution: ",
+                    "text": "We manage influencer relationships, monitor campaign performance, and optimize strategies to ensure successful outcomes."
+                  },
+                  {
+                    "title": "Performance Analysis: ",
+                    "text": "We provide detailed reports on campaign performance, influencer engagement, and ROI to measure success and inform future strategies."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "types",
+            "img": "/subservices/influencers-marketing.webp",
+            "title": "Types of Influencer Collaborations",
+            "items": [
+              {
+                "title": "Sponsored Posts",
+                "text": "Paid content featuring your product or service, crafted by influencers to resonate with their followers and enhance your brand's visibility."
+              },
+              {
+                "title": "Product Reviews",
+                "text": "Influencers review your product and share their genuine opinions with their audience, providing authentic feedback that can boost credibility and trust."
+              },
+              {
+                "title": "Unboxing Videos",
+                "text": "Influencers showcase your product in an unboxing video, highlighting its features and benefits in an engaging and visually appealing manner."
+              },
+              {
+                "title": "Giveaways",
+                "text": "Influencers host giveaways featuring your product or service, driving engagement and increasing your brand's reach through exciting and interactive campaigns."
+              },
+              {
+                "title": "Brand Ambassadorships",
+                "text": "Long-term partnerships with influencers to promote your brand consistently, fostering deeper connections and sustained brand loyalty among their audience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "/marketing/red-carpet.png",
+        "name": "events",
+        "title": "Events",
+        "href": "https://www.fusioneventssolutions.com/index",
+        "img": "/marketing/event-management.svg",
+        "description": "At Fusion, we specialize in creating unforgettable events that engage your audience and elevate your brand. Whether it's a product launch, corporate gathering, or promotional event, we craft personalized experiences that leave a lasting impact. Our team takes care of every detail, from conceptualizing the event to coordinating logistics and ensuring flawless execution. We focus on creating events that reflect your brand’s identity and values, while providing memorable experiences that drive customer loyalty and enhance your brand presence.",
+        "metaDescription": "We create unforgettable events that engage your audience and elevate your brand. From product launches to corporate gatherings, we ensure flawless execution and memorable experiences.",
+        "broadSentence": "Designing unforgettable events that engage and elevate your brand."
+      }
+    ]
+  },
+  "web-development": {
+    "title": "WebDevelopment.title",
+    "serviceCardImg": "/service-card-img/software-house-img.webp",
+    "icon": "/services/web-development-icon.svg",
+    "name": "web-development",
+    "img": "/web-development/web-development-img.svg",
+    "type": "nosubs",
+    "broadSentence": "Designing Digital Journeys: Websites that Captivate and Convert!",
+    "broadSentence2": "Empower your business with expert executive consulting services.",
+    "descrpTitle": "Crafting Exceptional Digital Experiences",
+    "description": "WebDevelopment.description",
+    "benefits": [
+      {
+        "title": "Enhance Online Presence",
+        "text": "Stand out with a professionally crafted website that reflects your brand's uniqueness and values.",
+        "icon": "/benefits-icons/online-presence.svg"
+      },
+      {
+        "title": "Optimal User Experience",
+        "text": "Ensure seamless navigation and performance across all devices, boosting user satisfaction and engagement.",
+        "icon": "/benefits-icons/user-experience.svg"
+      },
+      {
+        "title": "User-Centric Design",
+        "text": "Delight users with easy-to-navigate, attractive websites.",
+        "icon": "/benefits-icons/user-centric.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/responsive-designs.svg",
+        "name": "Responsive Designs",
+        "title1": "Responsive ",
+        "title2": "Designs",
+        "subtitle": "Creating adaptive and visually appealing websites that provide an optimal viewing experience across all devices.",
+        "img": "/web-development/responsive-designs-new.svg",
+        "points": [
+          {
+            "title": "Adaptive Layouts:",
+            "text": "Design layouts that adjust seamlessly to different screen sizes."
+          },
+          {
+            "title": "Cross-Device Compatibility:",
+            "text": "Ensure consistent performance on desktops, tablets, and smartphones."
+          },
+          {
+            "title": "Mobile-First Approach:",
+            "text": "Prioritize mobile usability for a superior user experience."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/e-commerce.svg",
+        "name": "E-commerce Solutions",
+        "title1": "E-commerce ",
+        "title2": "Solutions",
+        "subtitle": "Building secure and scalable online stores with integrated payment gateways and advanced shopping features.",
+        "img": "/web-development/e-commerce.svg",
+        "points": [
+          {
+            "title": "Custom Online Store Development:",
+            "text": "Develop tailored e-commerce platforms to meet your business needs."
+          },
+          {
+            "title": "Payment Gateway Integration:",
+            "text": "Implement secure payment processing solutions."
+          },
+          {
+            "title": "Shopping Cart and Checkout Optimization:",
+            "text": "Enhance the shopping experience with optimized cart and checkout processes."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/maintenance.svg",
+        "name": "Maintenance and Support",
+        "title1": "Maintenance and ",
+        "title2": "Support",
+        "subtitle": "Providing ongoing support and maintenance to ensure your website runs smoothly and remains up-to-date.",
+        "img": "/web-development/website-maintenance.svg",
+        "points": [
+          {
+            "title": "Regular Updates and Backups:",
+            "text": "Perform regular updates and backups to keep your website secure."
+          },
+          {
+            "title": "Technical Support:",
+            "text": "Offer technical assistance and troubleshooting services."
+          },
+          {
+            "title": "Performance Monitoring:",
+            "text": "Monitor website performance and implement improvements."
+          }
+        ]
+      }
+    ]
+  },
+  "executive-consulting": {
+    "title": "ExecutiveConsulting.title",
+    "serviceCardImg": "/service-card-img/executive-consulting-img.webp",
+    "icon": "/services/executive-consulting-icon.svg",
+    "name": "executive-consulting",
+    "img": "/technology-consulting/technology-consulting-img.svg",
+    "type": "nosubs",
+    "broadSentence": "Unlock Your Potential: Executive Consulting for Transformative Leadership!",
+    "broadSentence2": "Empower your business with expert executive consulting services.",
+    "descrpTitle": "We Elevate Your Business Through Expert Executive Consulting",
+    "description": "ExecutiveConsulting.description",
+    "benefits": [
+      {
+        "title": "Operational Excellence",
+        "text": "Optimize processes and implement best practices to enhance efficiency, reduce costs, and improve overall performance.",
+        "icon": "/benefits-icons/excellence.svg"
+      },
+      {
+        "title": "Strategic Insight",
+        "text": "Gain a deep understanding of market trends and organizational dynamics to make informed decisions that drive business growth.",
+        "icon": "/benefits-icons/insights.svg"
+      },
+      {
+        "title": "Leadership Development",
+        "text": "Empower your leadership team with the skills and knowledge needed to lead effectively, inspire innovation, and achieve strategic objectives.",
+        "icon": "/benefits-icons/leadership.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/strategic-planning.svg",
+        "name": "Strategic Planning",
+        "title1": "Strategic ",
+        "title2": "Planning",
+        "subtitle": "Crafting visionary strategies to propel your business towards long-term success.",
+        "img": "/executive-consulting/strategic-planning-img.svg",
+        "points": [
+          {
+            "title": "Long-Term Strategic Formulation:",
+            "text": "Create comprehensive strategies to reach business objectives."
+          },
+          {
+            "title": "Market Analysis and Benchmarking:",
+            "text": "Conduct in-depth market analysis and competitive benchmarking."
+          },
+          {
+            "title": "Strategic Roadmap Development:",
+            "text": "Outline a clear roadmap for achieving strategic goals."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/organizational-development.svg",
+        "name": "Organizational Development",
+        "title1": "Organizational ",
+        "title2": "Development",
+        "subtitle": "Transform your organization for optimal efficiency and a thriving corporate culture.",
+        "img": "/subservices/organizational-development-img.svg",
+        "points": [
+          {
+            "title": "Organizational Restructuring:",
+            "text": "Redesign organizational frameworks for better performance."
+          },
+          {
+            "title": "Team Dynamics Enhancement:",
+            "text": "Improve team interactions and collaboration."
+          },
+          {
+            "title": "Corporate Culture Building:",
+            "text": "Cultivate a positive and productive corporate culture."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/leadership.svg",
+        "name": "Leadership Coaching",
+        "title1": "Leadership ",
+        "title2": "Coaching",
+        "subtitle": "Empowering executives with the skills to lead effectively and drive success.",
+        "img": "/executive-consulting/leadership-img.svg",
+        "points": [
+          {
+            "title": "Personalized Executive Coaching:",
+            "text": "Provide tailored one-on-one coaching for leaders."
+          },
+          {
+            "title": "Leadership Skill Development:",
+            "text": "Enhance essential leadership skills."
+          },
+          {
+            "title": "Succession Planning:",
+            "text": "Plan for future leadership transitions."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/performance.svg",
+        "name": "Performance Improvement",
+        "title1": "Performance ",
+        "title2": "Improvement",
+        "subtitle": "Achieving excellence through targeted performance enhancements and management.",
+        "img": "/executive-consulting/performance-mgmt-img.svg",
+        "points": [
+          {
+            "title": "Performance Gap Analysis:",
+            "text": "Identify areas needing improvement."
+          },
+          {
+            "title": "Performance Management Systems:",
+            "text": "Implement systems to track and improve performance."
+          },
+          {
+            "title": "Continuous Improvement Initiatives:",
+            "text": "Foster a culture of continuous improvement."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/change-mgmt.svg",
+        "name": "Change Management",
+        "title1": "Change ",
+        "title2": "Management",
+        "subtitle": "Navigating transitions with strategic change management and comprehensive support.",
+        "img": "/executive-consulting/change-mgmt-img.svg",
+        "points": [
+          {
+            "title": "Change Strategy Development:",
+            "text": "Formulate strategies for effective organizational change."
+          },
+          {
+            "title": "Transition Management:",
+            "text": "Ensure smooth transitions during change initiatives."
+          },
+          {
+            "title": "Training and Support Programs:",
+            "text": "Provide training and support for successful change implementation."
+          }
+        ]
+      }
+    ]
+  },
+  "technology-consulting": {
+    "title": "TechnologyConsulting.title",
+    "serviceCardImg": "/service-card-img/it-img.webp",
+    "icon": "/services/it-consulting-icon.svg",
+    "name": "technology-consulting",
+    "img": "/technology-consulting/technology-consulting-img.svg",
+    "type": "nosubs",
+    "broadSentence": "Innovate and Thrive: Technology Consulting for Future-Ready Solutions!",
+    "broadSentence2": "Transform Ideas: Custom Software Solutions for Unstoppable Growth!",
+    "descrpTitle": "We Elevate Your Business Through Expert Technology Consulting",
+    "description": "TechnologyConsulting.description",
+    "benefits": [
+      {
+        "title": "Increased Efficiency",
+        "text": "Streamline operations and improve productivity by implementing cutting-edge technology solutions.",
+        "icon": "/benefits-icons/efficiency.svg"
+      },
+      {
+        "title": "Cost Reduction",
+        "text": "Reduce operational costs through optimized processes and effective use of technology.",
+        "icon": "/benefits-icons/cost-reduction.svg"
+      },
+      {
+        "title": " Competitive Advantage",
+        "text": "Stay ahead of the competition with innovative technology strategies and solutions.",
+        "icon": "/benefits-icons/competition.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/strategic-planning.svg",
+        "name": "Strategic IT Planning",
+        "title1": "Strategic",
+        "title2": "IT Planning",
+        "subtitle": "Optimize IT for growth: Assess, strategize, and roadmap. Tailored solutions for seamless tech integration and business advancement.",
+        "img": "/technology-consulting/technology-consulting-planning.svg",
+        "points": [
+          {
+            "title": "Comprehensive IT Infrastructure Assessment:",
+            "text": "Identify inefficiencies, security risks, and improvement opportunities in your IT infrastructure."
+          },
+          {
+            "title": "Tailored IT Strategy Development:",
+            "text": "Develop a customized IT strategy that aligns with your business objectives."
+          },
+          {
+            "title": "Technology Adoption and Optimization Roadmap:",
+            "text": "Create a roadmap for technology adoption, migration, and optimization to achieve business goals."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/digital-transformation.svg",
+        "name": "Digital Transformation",
+        "title1": "Digital ",
+        "title2": "Transformation",
+        "subtitle": "Discover transformation possibilities, and integrate AI, IoT, and blockchain for innovation. Change management and training programs facilitate organizational transition seamlessly.",
+        "img": "/technology-consulting/technology-consulting-dt.svg",
+        "points": [
+          {
+            "title": "Identifying Digital Transformation Opportunities:",
+            "text": "Identify ways to leverage technology for improved processes and business performance."
+          },
+          {
+            "title": "Integrating Emerging Technologies for Innovation:",
+            "text": "Integrate emerging technologies like AI, IoT, and blockchain to drive innovation."
+          },
+          {
+            "title": "Change Management and Training Programs:",
+            "text": "Facilitate smooth transitions with change management and training programs."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/cybersecurity.svg",
+        "name": "Cybersecurity",
+        "title1": "Cybersecurity ",
+        "title2": "Consulting",
+        "subtitle": "Assess, strategize, and implement robust cybersecurity measures. Customized solutions for network security, endpoint protection, and incident response planning.",
+        "img": "/technology-consulting/technology-consulting-cybersecurity.svg",
+        "points": [
+          {
+            "title": "Cybersecurity Risk and Vulnerability Assessment:",
+            "text": "Identify potential threats and weaknesses in your IT infrastructure."
+          },
+          {
+            "title": "Customized Cybersecurity Strategies and Incident Response Planning:",
+            "text": "Develop tailored cybersecurity strategies and incident response plans."
+          },
+          {
+            "title": "Implementation of Robust Security Measures and Threat Intelligence:",
+            "text": "Implement security measures and threat intelligence to protect your IT environment."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/data-analytics.svg",
+        "name": "Data Analytics",
+        "title1": "Data Analytics ",
+        "title2": "and Business Intelligence",
+        "subtitle": "Leverage data analytics for actionable insights. Design data warehouses, dashboards, and predictive analytics to drive informed decision-making.",
+        "img": "/technology-consulting/technology-consulting-analytics.svg",
+        "points": [
+          {
+            "title": "Utilizing Data Analytics Tools for Actionable Insights:",
+            "text": "Use data analytics tools to extract actionable insights from your data."
+          },
+          {
+            "title": "Designing and Implementing Data Warehouses and Reporting Systems:",
+            "text": "Design and implement data warehouses, dashboards, and reporting systems."
+          },
+          {
+            "title": "Predictive Analytics and Machine Learning for Data-Driven Decisions:",
+            "text": "Use predictive analytics and machine learning to enable data-driven decision-making."
+          }
+        ]
+      }
+    ]
+  },
+  "rpa": {
+    "title": "RPA.title",
+    "serviceCardImg": "/service-card-img/rpa-img.webp",
+    "icon": "/services/rpa-icon.svg",
+    "name": "rpa",
+    "img": "/rpa/rpa-img.svg",
+    "type": "nosubs",
+    "broadSentence": "Automate to Innovate: RPA Solutions for Enhanced Efficiency!",
+    "broadSentence2": "Streamline Operations and Boost Efficiency with Our Expert RPA Solutions.",
+    "descrpTitle": "We Unlock Your Business Potential Through Robotic Process Automation",
+    "description": "RPA.description",
+    "benefits": [
+      {
+        "title": "Increased Efficiency",
+        "text": "Automate repetitive tasks, allowing your workforce to focus on strategic, value-added activities.",
+        "icon": "/benefits-icons/efficiency.svg"
+      },
+      {
+        "title": "Cost Reduction",
+        "text": "Reduce operational costs through efficient automation, minimizing manual labor and associated expenses.",
+        "icon": "/benefits-icons/cost-reduction.svg"
+      },
+      {
+        "title": " Enhanced Accuracy",
+        "text": "Improve accuracy by eliminating human error, ensuring reliable and precise task execution.",
+        "icon": "/benefits-icons/accuracy.svg"
+      }
+    ],
+    "subservices": [
+      {
+        "icon": "/services-dropdown/discover.svg",
+        "name": "Discover",
+        "title1": "Discover",
+        "subtitle": " Identify the highest-ROI opportunities for continuous process optimization and automation using the power of AI. This involves:",
+        "img": "/rpa/rpa-discover.svg",
+        "points": [
+          {
+            "title": "Process Mining:",
+            "text": "Analyzing business processes to identify areas for improvement and automation."
+          },
+          {
+            "title": "Task Mining:",
+            "text": "Examining specific tasks to pinpoint inefficiencies."
+          },
+          {
+            "title": "Communications Mining:",
+            "text": "Evaluating communication patterns to uncover bottlenecks and opportunities."
+          },
+          {
+            "title": "Optimize IT for growth:",
+            "text": "Assess, strategize, and roadmap. Tailored solutions for seamless tech integration and business advancement."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/automate.svg",
+        "name": "Automate",
+        "title1": "Automate",
+        "subtitle": "Rapidly build AI-powered automation that seamlessly collaborates with people and systems to transform every facet of work. This includes:",
+        "img": "/rpa/rpa-automate.svg",
+        "points": [
+          {
+            "title": "Seamless Integration:",
+            "text": "Automate tasks by connecting with various software and systems."
+          },
+          {
+            "title": "Rapid Development:",
+            "text": "Use low-code tools to quickly build and deploy automation solutions."
+          },
+          {
+            "title": "Smart Automation:",
+            "text": "Apply AI to handle complex tasks and enhance document processing."
+          },
+          {
+            "title": "Process Coordination:",
+            "text": "Ensure that different automation tasks work together smoothly."
+          }
+        ]
+      },
+      {
+        "icon": "/services-dropdown/operate.svg",
+        "name": "Operate",
+        "title1": "Operate",
+        "subtitle": "Establish a robust framework to manage and scale your automation efforts. This involves:",
+        "img": "/rpa/rpa-operate.svg",
+        "points": [
+          {
+            "title": "Performance Monitoring:",
+            "text": "Track and analyze automation performance continuously."
+          },
+          {
+            "title": "Ongoing Improvements:",
+            "text": "Regularly test and refine automation to maintain efficiency."
+          },
+          {
+            "title": "Centralized Management:",
+            "text": "Oversee all automation processes from a unified platform."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,6 +1,8 @@
-/** @type {import('next').NextConfig} */
+import createNextIntlPlugin from 'next-intl/plugin';
+
 const nextConfig = {
 	trailingSlash: false
 };
 
-export default nextConfig;
+const withNextIntl = createNextIntlPlugin('./src/app/i18n/request.js');
+export default withNextIntl(nextConfig);
